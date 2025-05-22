@@ -46,14 +46,6 @@ El análisis se enfocó en encontrar correlaciones y comportamientos que puedan 
 
 ---
 
-## 📂 Cómo ver este proyecto
-
-1. Descarga o clona el repositorio.
-2. Abre `bellabeat-case-study.ipynb` en Jupyter Notebook.
-3. Ejecuta las celdas para explorar el análisis.
-
----
-
 ## 🔗 Dataset original
 
 Puedes encontrar el dataset en Kaggle:  
