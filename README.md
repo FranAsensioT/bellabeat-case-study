@@ -10,7 +10,6 @@ Este proyecto forma parte de una práctica de análisis de datos con datos reale
 - **Jupyter Notebook**  
 - **Pandas**, **Matplotlib**, **Seaborn**, **NumPy**
 - **Google Data Analytics framework**  
-- Git y GitHub
 
 ---
 
