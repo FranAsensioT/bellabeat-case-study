@@ -55,4 +55,4 @@ Puedes encontrar el dataset en Kaggle:
 
 ## 💬 ¿Comentarios o sugerencias?
 
-Estoy siempre abierto a feedback o colaboración. Podes encontrarme en [LinkedIn](www.linkedin.com/in/francisco-asensio-1768a3208) o GitHub!
+Estoy siempre abierto a feedback o colaboración. Podes encontrarme en [LinkedIn](https://www.linkedin.com/in/francisco-asensio-1768a3208) o GitHub!
