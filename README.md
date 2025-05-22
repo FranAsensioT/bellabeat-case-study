@@ -29,9 +29,8 @@ El análisis se enfocó en encontrar correlaciones y comportamientos que puedan 
 
 ## 📈 Principales conclusiones
 
-- Las personas que duermen más tienden a tener un menor nivel de actividad física.
-- Existe una relación moderada entre el gasto calórico y los minutos activos intensamente.
-- Se detectó baja variabilidad entre usuarios en cuanto al total de pasos diarios, lo cual puede indicar patrones de rutina similares o limitaciones del dataset.
+- La mayoría de los usuarios tienen niveles bajos de actividad moderada, lo que sugiere un segmento clave para intervenciones de motivación.
+- El gasto calórico está directamente relacionado con la actividad física intensa, indicando una oportunidad para promover entrenamientos más activos.
 
 ---
 
@@ -64,4 +63,4 @@ Puedes encontrar el dataset en Kaggle:
 
 ## 💬 ¿Comentarios o sugerencias?
 
-Estoy siempre abierto a feedback o colaboración. ¡No dudes en contactarme a través de [GitHub](https://github.com/FranAsensioT) o LinkedIn!
+Estoy siempre abierto a feedback o colaboración. ¡No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/francisco-asensio-1768a3208) o GitHub!
